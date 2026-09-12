@@ -1,9 +1,9 @@
+
 # GamezzzRecommendation - Recomendação de Jogos
 
 ## Descrição
 Página web responsiva desenvolvida para a atividade
 de Desenvolvimento Web III.
-
 O tema escolhido foi uma página web sobre recomendações para alguém quer jogar algo mas não tem ideia do que escolher.
 
 ## Tecnologias
@@ -15,7 +15,6 @@ O tema escolhido foi uma página web sobre recomendações para alguém quer jog
 - Navbar
 - Grid
 - Cards
-- Alert
 - Modal
 - Badges
 
