@@ -1,4 +1,3 @@
-
 # GamezzzRecommendation - Recomendação de Jogos
 
 ## Descrição
@@ -16,7 +15,7 @@ O tema escolhido foi uma página web sobre recomendações para alguém quer jog
 - Navbar
 - Grid
 - Cards
-- Carousel
+- Alert
 - Modal
 - Badges
 
